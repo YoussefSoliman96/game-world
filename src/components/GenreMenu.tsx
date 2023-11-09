@@ -17,9 +17,7 @@ const GenreMenu = () => {
     <div>
       <Menu>
         <MenuButton
-          marginRight={5}
           as={IconButton}
-          aria-label="Options"
           icon={<HamburgerIcon />}
           variant="outline"
         ></MenuButton>

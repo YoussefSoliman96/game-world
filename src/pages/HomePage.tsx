@@ -27,9 +27,11 @@ const HomePage = () => {
         <Box paddingLeft={2}>
           <GameHeading />
           <Flex marginBottom={5}>
-            <Show below="lg">
-              <GenreMenu />
-            </Show>
+            <Box marginRight={5}>
+              <Show below="lg">
+                <GenreMenu />
+              </Show>
+            </Box>
             <Box marginRight={5}>
               <PlatformSelector />
             </Box>
