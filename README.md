@@ -2,7 +2,7 @@
 
 [Live Demo](https://gameworld-v2.vercel.app/)
 
-GameHub is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more.
+Game World is a video game discovery web app that helps you find new and interesting games to play. With Game World, you can search for games by platform, genre, and more.
 
 ## Table of content:
 
