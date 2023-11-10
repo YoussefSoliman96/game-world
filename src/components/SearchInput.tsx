@@ -15,7 +15,6 @@ const SearchInput = () => {
         if (ref.current) {
           setSearchText(ref.current.value);
           navigate("/");
-          ref.current.value = "";
         }
       }}
     >
